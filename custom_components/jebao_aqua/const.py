@@ -216,7 +216,7 @@ SERVICE_MAP = {
     "NF": "us",
     "PW": "us",
     "PN": "us",
-    "PT": "us",
+    "PT": "eu",
     "SE": "eu",
     "CH": "eu",
     "EH": "eu",
